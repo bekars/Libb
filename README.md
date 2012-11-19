@@ -1,4 +1,4 @@
 Libb
 ====
 
-B library HaHa.
+B library HaHa ^_^.
